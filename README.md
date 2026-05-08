@@ -103,7 +103,7 @@ Verify in Device Manager — the Coral should appear as **"Coral USB Accelerator
 ### 2. Clone or download this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/eco-intelligence-coral.git
+git clone https://github.com/HanHanJimin/Eco-Intelligence-Coral.git
 cd eco-intelligence-coral
 ```
 
