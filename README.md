@@ -221,7 +221,8 @@ The Garbage Classification dataset is provided by Mostafa Abla under its own Kag
 
 ## 🙏 Acknowledgments
 
-- **ICT720 Course**
+
+- **ICT720 Course** We thank our instructors and advisors for their guidance throughout the project.
 - **Google Coral team** for the Edge TPU hardware and pycoral library
 - **Ultralytics** for the YOLOv8 framework
 - **Mostafa Abla** for curating and sharing the garbage classification dataset
