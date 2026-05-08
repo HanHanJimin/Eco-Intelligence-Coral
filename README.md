@@ -11,7 +11,7 @@
 
 ## 📖 Project Overview
 
-**Eco-Intelligence** is an edge-based computer vision system that automatically identifies waste items and guides users to the correct disposal bin in real time. Developed for **ICT720 — Hardware and Software Co-design** at **SIIT, Thammasat University**, the project demonstrates that meaningful environmental AI applications can be built with affordable, low-power embedded hardware.
+**Eco-Intelligence** is an edge-based computer vision system that automatically identifies waste items and guides users to the correct disposal bin in real time. Developed for **ICT740 — Hardware and Software Co-design** at **TAIST Sciencec Tokyo Master of Engineering in AIoT Program**, the project demonstrates that meaningful environmental AI applications can be built with affordable, low-power embedded hardware.
 
 The system uses a **YOLOv8 classification model** trained on 12 waste categories, quantized for the **Google Coral Edge TPU**, and deployed with a real-time webcam interface that recommends one of four physical bins.
 
