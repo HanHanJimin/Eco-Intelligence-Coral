@@ -180,7 +180,7 @@ The system was tested with all 12 classes under typical indoor lighting. Each cl
 
 ## 👥 Team Members
 
-This project was developed as a group effort for ICT720 at SIIT, Thammasat University:
+This project was developed as a group effort for ICT740 at **TAIST Sciencec Tokyo Master of Engineering in AIoT Program**:
 
 | Name | ID | Role |
 |---|---|---|
@@ -222,7 +222,7 @@ The Garbage Classification dataset is provided by Mostafa Abla under its own Kag
 ## 🙏 Acknowledgments
 
 
-- **ICT720 Course** We thank our instructors and advisors for their guidance throughout the project.
+- **ICT740 Course** We thank our instructors and advisors for their guidance throughout the project.
 - **Google Coral team** for the Edge TPU hardware and pycoral library
 - **Ultralytics** for the YOLOv8 framework
 - **Mostafa Abla** for curating and sharing the garbage classification dataset
