@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Saved frames from live testing (these should not bloat the repo)
+saved_frames/
+saved_frames_yolo/
+saved_frames_yolo_v9/
+
+# Logs
+*.log
+eco_server.log
+
+# Local datasets (too large for git)
+dataset/
+Dataset/
+*.zip
+dataset_garbage.zip
+
+# Kaggle credentials
+kaggle.json
+
+# Model training outputs (large files)
+runs/
+weights/
+*.pt
+# Note: keep .tflite files since they're our deployable models
+
+# Personal / private
+.env
+*.secret

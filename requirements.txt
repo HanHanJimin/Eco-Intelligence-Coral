@@ -1,0 +1,14 @@
+# Eco-Intelligence: Coral Edge TPU deployment
+# Python version required: 3.9 (use py -3.9 launcher on Windows)
+#
+# Install with:
+#   py -3.9 -m pip install -r requirements.txt
+#
+# Note: NumPy must stay below 2.0 — pycoral 2.0.0 was compiled
+# against NumPy 1.x and breaks with NumPy 2.x.
+
+tflite-runtime==2.5.0.post1
+pycoral==2.0.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy<2.0
