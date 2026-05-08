@@ -187,7 +187,7 @@ This project was developed as a group effort for ICT720 at SIIT, Thammasat Unive
 | **Nhat Anh Tran** | 6822040298 | YOLOv8 model training |
 | **Napat Charoenwong (Cherry)** | 6822040322 | Model quantization for Edge TPU |
 | **Khin Su Su Han (HanHan)** | 6822040215 | Coral USB Accelerator deployment, real-time webcam UI |
-| **Thinn Thinn Htet** | 6822040207 | Project documentation, Medium article |
+| **Thinn Thinn Htet** | 6822040207 | Project documentation, Medium article, Project Testing |
 
 ---
 
